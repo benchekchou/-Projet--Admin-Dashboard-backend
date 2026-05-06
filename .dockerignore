@@ -1,1 +1,13 @@
 node_modules
+.git
+.gitignore
+.idea
+.env
+uploads
+docs
+tests
+*.md
+jest.config.cjs
+hardhat.config.mjs
+testRateLimit.js
+testGlobaleRateLimit.js
